@@ -1,4 +1,4 @@
 # project_euler
 Solutions in Python to the Project Euler challenges.
 
-Cool Solutions: 005, ...
+Cool Solutions: 005, 006, 
